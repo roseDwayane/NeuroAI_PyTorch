@@ -220,3 +220,6 @@ __marimo__/
 script/
 .claude/
 .obsidian/
+
+# macOS
+.DS_Store
